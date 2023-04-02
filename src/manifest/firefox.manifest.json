@@ -8,5 +8,13 @@
       "strict_min_version": "67.0"
     }
   },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Period"
+      },
+      "description": "Activate toolbar button"
+    }
+  },
   "content_security_policy": "script-src 'self'; object-src 'self'"
 }
